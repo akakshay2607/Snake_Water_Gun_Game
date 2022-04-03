@@ -88,13 +88,3 @@ print(f"your point is {human_point} and computer point is {computer_point}")
 #
 # Snake Water Gun Game in Python
 # The snake drinks the water, the gun shoots the snake, and gun has no effect on water.
-#
-
-  
-
-
-# In[ ]:
-
-
-
-
